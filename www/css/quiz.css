@@ -1,5 +1,6 @@
 /* This is a CSS file */
 
 button{
-  width: 50% !important;
+  width: 35% !important;
+  font-size: 22px;
 }
